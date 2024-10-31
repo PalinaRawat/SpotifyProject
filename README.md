@@ -27,5 +27,5 @@ If you want to test the app, I will need to whitelist your email. Let me know!
 
 • Future Prospects:
 
--- Expanding the interface with the OpenAI API to generate customized pitches for artists to submit to Spotify’s editorial team, creating personalized proposals based on song features to improve chances of playlist placement and boost artist visibility.
--- Implementing dynamic exploratory data analysis for artists’ songs to identify correlations between song features and popularity, uncovering potential song cohorts and generating strategic recommendations for Spotify playlist placements.
+- Expanding the interface with the OpenAI API to generate customized pitches for artists to submit to Spotify’s editorial team, creating personalized proposals based on song features to improve chances of playlist placement and boost artist visibility.
+- Implementing dynamic exploratory data analysis for artists’ songs to identify correlations between song features and popularity, uncovering potential song cohorts and generating strategic recommendations for Spotify playlist placements.
