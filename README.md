@@ -19,7 +19,7 @@ CODE: https://github.com/PalinaRawat/SpotifyProject/blob/main/spotifyProject.ipy
 
 - Song Analysis Tool: Offers detailed, interactive visualizations using Plotly, helping users and artists understand audio characteristics and patterns across tracks.
 - Mood-Based Playlist Creation: Allows users to manage playlists directly on Spotify with functionalities to add and remove tracks and generate playlists tailored to specific emotional states, such as "Happy," "Energetic," and "Relaxed." This feature uses statis-based rules along with PCA and K-Means clustering to group liked songs into distinct cohorts, creating personalized playlists for a more customized listening experience.
-Recommendation Engine: Provides personalized song suggestions based on user input and listening history, leveraging Spotify's recommendation algorithms to enhance music discovery.
+- Recommendation Engine: Provides personalized song suggestions based on user input and listening history, leveraging Spotify's recommendation algorithms to enhance music discovery.
 
 CODE: https://github.com/ishan-rawat1/SpotifyApp
 TOOL: https://betterspotify.streamlit.app/  
