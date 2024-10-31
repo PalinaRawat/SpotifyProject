@@ -22,6 +22,7 @@ CODE: https://github.com/PalinaRawat/SpotifyProject/blob/main/spotifyProject.ipy
 - Recommendation Engine: Provides personalized song suggestions based on user input and listening history, leveraging Spotify's recommendation algorithms to enhance music discovery.
 
 CODE: https://github.com/ishan-rawat1/SpotifyApp
+
 TOOL: https://betterspotify.streamlit.app/  
 If you want to test the app, I will need to whitelist your email. Let me know!
 
